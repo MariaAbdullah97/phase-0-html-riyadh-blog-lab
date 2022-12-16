@@ -22,6 +22,7 @@ body {
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
+  background: linear-gradient(to right bottom, #648880, #293f50);
 }
 
 h1, h2 {
@@ -52,11 +53,13 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 15px;
+  color:whitesmoke;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 a {
-  color: black;
+  color:#293f50;
   text-decoration: none;
 }
 
